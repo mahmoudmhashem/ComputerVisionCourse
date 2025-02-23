@@ -43,6 +43,10 @@ This week is depend on Lecture3 from Introduction to Deep Learning (IN2346) cour
 [I2DL - Lecture 03: Introduction to Neural Networks](https://youtu.be/1cmdxeEDkd8?si=q9QKDaPYI7u1rpX3)
 [I2DL - Lecture 04: Optimization and Backpropagation](https://youtu.be/2e1csSPTGPQ?si=XINo7gd8GQO64srV)
 
+### Additional material
+[Differencebetweenpartial and total derivatives](https://youtu.be/Kp7sSp5Kn7o?si=t2-MZmd1tu4OmUJJ)
+
+
 ### Section
 A Gentle Introduction to torch.autograd
 
@@ -52,3 +56,5 @@ We will depend on the following one Notebook
 ### Assignment:
 Computational Graph Implementation From scratch For Sigmoid Function ie (implement forward and backward function For Sigmoid function).
 Note: Wrap your functions into a class called Sigmoid Class
+
+
