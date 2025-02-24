@@ -37,10 +37,12 @@ This week is depend on Lecture3 from Introduction to Deep Learning (IN2346) cour
 
 ### MUT pdf Lecture:
 [intro2nn](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/3.intro2nn.pdf)
+
 [optimization_and_backprop](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/4.optimization_and_backprop.pdf)
 
 ### MUT recording video: 
 [I2DL - Lecture 03: Introduction to Neural Networks](https://youtu.be/1cmdxeEDkd8?si=q9QKDaPYI7u1rpX3)
+
 [I2DL - Lecture 04: Optimization and Backpropagation](https://youtu.be/2e1csSPTGPQ?si=XINo7gd8GQO64srV)
 
 ### Additional material
