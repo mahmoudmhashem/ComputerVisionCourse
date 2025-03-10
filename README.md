@@ -33,7 +33,7 @@ And an medium Tutorial
 Linear Regression implementation From scratch.
 
 ## Week2
-This week is depend on Lecture3 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
+This week is depend on Lecture3 and Lecture4 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
 
 ### MUT pdf Lecture:
 [intro2nn](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/3.intro2nn.pdf)
@@ -59,4 +59,37 @@ We will depend on the following one Notebook
 Computational Graph Implementation From scratch For Sigmoid Function ie (implement forward and backward function For Sigmoid function).
 Note: Wrap your functions into a class called Sigmoid Class
 
+## Week3
+This week is depend on Lecture4 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
 
+### MUT pdf Lecture:
+[optimization_and_backprop](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/4.optimization_and_backprop.pdf)
+
+### MUT recording video: 
+[I2DL - Lecture 04: Optimization and Backpropagation](https://youtu.be/2e1csSPTGPQ?si=XINo7gd8GQO64srV)
+
+
+## Week4
+This week is depend on Lecture4 and parts from lecture5 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
+
+from lecture5 we took only
+1 - from page 1 to page 36
+2 - from page 39 to page 42
+
+### MUT pdf Lecture:
+[optimization_and_backprop](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/4.optimization_and_backprop.pdf)
+
+[scaling_optimization](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/5.scaling_optimization.pdf)
+
+### MUT recording video: 
+[I2DL - Lecture 05: Scaling Optimization](https://www.youtube.com/watch?v=S2k8ZlLXprE)
+
+### Section
+implementing Multi Layer Perceptron from scratch
+
+We will depend on the following youtube video Notebook
+
+[The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=ydZBX7MscR2m9c_u)
+
+### Assignment:
+Study well the part we've implemented yet
