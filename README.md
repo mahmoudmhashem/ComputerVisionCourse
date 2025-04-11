@@ -97,28 +97,21 @@ We will depend on the following youtube video Notebook
 Study well the part we've implemented yet
 
 ## Week5
-This week is depend on Lecture4 and parts from lecture5 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
-
-from lecture5 we took only
-
-1 - from page 1 to page 36
-
-2 - from page 39 to page 45
+This week is depend on Lecture9 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
 
 ### MUT pdf Lecture:
-[optimization_and_backprop](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/4.optimization_and_backprop.pdf)
+[Convolutional neural networks](https://drive.google.com/file/d/1BmN_BZO-q8FGRldmkjH_-kZy-NViht6z/view?usp=drive_link)
 
-[scaling_optimization](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/5.scaling_optimization.pdf)
 
 ### MUT recording video: 
-[I2DL - Lecture 05: Scaling Optimization](https://www.youtube.com/watch?v=S2k8ZlLXprE)
+[I2DL - Lecture 09: Convolutional Neural Networks](https://youtu.be/eWGIkQq0Hzg?si=lpGBP2_Dv2jnMAOV)
 
 ### Section
-implementing Multi Layer Perceptron from scratch
+implementing Multi Layer Perceptron from scratch (contn)
 
 We will depend on the following youtube video Notebook
 
 [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=ydZBX7MscR2m9c_u)
 
 ### Assignment:
-Study well the part we've implemented yet
+Study well How to implement MLP
