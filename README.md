@@ -100,7 +100,7 @@ Study well the part we've implemented yet
 This week is depend on Lecture9 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
 
 ### MUT pdf Lecture:
-[Convolutional neural networks](https://drive.google.com/file/d/1BmN_BZO-q8FGRldmkjH_-kZy-NViht6z/view?usp=drive_link)
+[Convolutional neural networks](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/9.convnets.pdf)
 
 
 ### MUT recording video: 
@@ -115,3 +115,29 @@ We will depend on the following youtube video Notebook
 
 ### Assignment:
 Study well How to implement MLP
+
+## Week6
+This week is depend on Lecture9 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
+
+### MUT pdf Lecture:
+[CNN Architectures](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/10.architectures.pdf)
+
+### MUT recording video: 
+[I2DL - Lecture 10: CNN Architectures](https://youtu.be/wODx3b6COfU?si=i7yshf4o_ItgvRYr)
+
+from lecture10 we took only:
+
+from page 1 to page 48
+
+### Section
+Implementing and Training AlexNet on CIFAR-10
+
+## Week7
+In this week we took the following topics
+
+- Cross Entropy
+- Softmax activation function
+- Precision
+- Recall
+- F1score
+- Intro to RNN
