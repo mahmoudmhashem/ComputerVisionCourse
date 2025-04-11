@@ -73,8 +73,37 @@ This week is depend on Lecture4 from Introduction to Deep Learning (IN2346) cour
 This week is depend on Lecture4 and parts from lecture5 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
 
 from lecture5 we took only
+
 1 - from page 1 to page 36
-2 - from page 39 to page 42
+
+2 - from page 39 to page 45
+
+### MUT pdf Lecture:
+[optimization_and_backprop](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/4.optimization_and_backprop.pdf)
+
+[scaling_optimization](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/5.scaling_optimization.pdf)
+
+### MUT recording video: 
+[I2DL - Lecture 05: Scaling Optimization](https://www.youtube.com/watch?v=S2k8ZlLXprE)
+
+### Section
+implementing Multi Layer Perceptron from scratch
+
+We will depend on the following youtube video Notebook
+
+[The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=ydZBX7MscR2m9c_u)
+
+### Assignment:
+Study well the part we've implemented yet
+
+## Week5
+This week is depend on Lecture4 and parts from lecture5 from Introduction to Deep Learning (IN2346) course at TUM School of Computation, Information and Technology.
+
+from lecture5 we took only
+
+1 - from page 1 to page 36
+
+2 - from page 39 to page 45
 
 ### MUT pdf Lecture:
 [optimization_and_backprop](https://cvg.cit.tum.de/_media/teaching/ws2024/i2dl/4.optimization_and_backprop.pdf)
